@@ -2,7 +2,7 @@
 
 Clone project
 ```sh
-git clone https://github.com/anton-sosonskyi/simple-CRUD.git
+git clone (https://github.com/Asosonskyi/propr.git)
 ```
 Open project and run
 ```sh
@@ -10,4 +10,4 @@ npm i
 npm run dev
 ```
 
-[DEMO](https://anton-sosonskyi.github.io/propr-home/)
+[DEMO](https://Asosonskyi.github.io/propr)
